@@ -2,3 +2,7 @@
 *.blend1
 
 /Derek/
+
+# Frames renderizados (secuencias PNG)
+/Renders/Cycles/
+/Renders/Cycles_viejos/
